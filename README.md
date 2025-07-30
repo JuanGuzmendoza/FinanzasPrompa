@@ -1,3 +1,9 @@
+### Personal information
+- Name: Juan David Guzman Mendoza
+- Clan: Malecon
+- Email: juanguzman10102005@gmail.com
+- C.C: 1046699456
+  
 # Process Management Application (Purchases and Sales)
 
 ## Description
@@ -35,3 +41,7 @@ This view manages processes, which can be expenses or revenues. Features include
 ```bash
 git clone https://github.com/JuanGuzmendoza/FinanzasPrompa.git
 cd FinancePrompa
+
+
+
+
